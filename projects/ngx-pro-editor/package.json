@@ -1,0 +1,53 @@
+{
+  "name": "ngx-pro-editor",
+  "version": "1.2.10",
+  "description": "A powerful, fully custom Angular rich text editor with zero external editor dependencies. Supports rich text formatting, font controls, 80+ colors, background highlights, headings (H1–H6), blockquotes, code blocks, lists, alignment, and more. Modular and extensible for plugins, image upload, and collaborative editing.",
+  "keywords": [
+    "angular",
+    "angular14",
+    "angular15",
+    "angular16",
+    "angular17",
+    "angular18",
+    "rich-text-editor",
+    "wysiwyg",
+    "editor",
+    "ngx",
+    "text-formatting",
+    "contenteditable",
+    "toolbar",
+    "angular-editor",
+    "text-editor",
+    "html-editor",
+    "standalone-components",
+    "typescript",
+    "signals"
+  ],
+  "author": {
+    "name": "Shubham Chauhan",
+    "url": "https://www.npmjs.com/~shubhamchauhanrspl"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shubhamchauhanrspl/ngx-pro-editor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shubhamchauhanrspl/ngx-pro-editor/issues"
+  },
+  "homepage": "https://github.com/shubhamchauhanrspl/ngx-pro-editor#readme",
+  "peerDependencies": {
+    "@angular/common": ">=14.0.0",
+    "@angular/core": ">=14.0.0",
+    "@angular/forms": ">=14.0.0",
+    "rxjs": ">=6.5.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false,
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  }
+}

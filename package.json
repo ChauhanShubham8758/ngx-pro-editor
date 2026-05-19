@@ -1,0 +1,33 @@
+{
+  "name": "ngx-pro-editor-workspace",
+  "version": "0.0.3",
+  "scripts": {
+    "build:lib": "ng build ngx-pro-editor",
+    "build:demo": "ng build demo",
+    "start": "ng serve demo",
+    "pack": "cd dist/ngx-pro-editor && npm pack",
+    "publish:lib": "npm run build:lib && cd dist/ngx-pro-editor && npm publish --access public",
+    "version:patch": "cd projects/ngx-pro-editor && npm version patch",
+    "version:minor": "cd projects/ngx-pro-editor && npm version minor",
+    "version:major": "cd projects/ngx-pro-editor && npm version major"
+  },
+  "private": true,
+  "dependencies": {
+    "@angular/common": "^17.3.0",
+    "@angular/core": "^17.3.0",
+    "@angular/forms": "^17.3.0",
+    "@angular/platform-browser": "^17.3.0",
+    "@angular/platform-browser-dynamic": "^17.3.0",
+    "rxjs": "~7.8.0",
+    "tslib": "^2.3.0",
+    "zone.js": "~0.14.3"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^17.3.0",
+    "@angular/cli": "^17.3.0",
+    "@angular/compiler": "^17.3.0",
+    "@angular/compiler-cli": "^17.3.0",
+    "ng-packagr": "^17.3.0",
+    "typescript": "~5.4.2"
+  }
+}

@@ -1,0 +1,10 @@
+*.ts
+!*.d.ts
+tsconfig.json
+tsconfig.lib.json
+tsconfig.lib.prod.json
+ng-package.json
+.gitkeep
+*.spec.ts
+*.map
+src/
