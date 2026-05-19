@@ -416,6 +416,6 @@ If you find this project useful, please consider giving it a star on GitHub!
 
 <div align="center">
 
-**Made with ❤️ by [Your Name](https://github.com/yourusername)**
+**Made with ❤️ by [Shubham Chauhan](https://github.com/ChauhanShubham8758/ngx-pro-editor)**
 
 </div>
