@@ -9,7 +9,7 @@
 
 **A feature-rich WYSIWYG editor for Angular with auto-save, special characters, and advanced formatting**
 
-[Demo](https://your-demo-url.com) • [Documentation](https://your-docs-url.com) • [Report Bug](https://github.com/yourusername/ngx-pro-editor/issues)
+[Demo](https://your-demo-url.com) • [Documentation](https://your-docs-url.com) • [Report Bug](https://github.com/ChauhanShubham8758/ngx-pro-editor/issues)
 
 </div>
 
@@ -400,9 +400,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 💬 Support
 
 - 📧 Email: your.email@example.com
-- 🐛 [Report Issues](https://github.com/yourusername/ngx-pro-editor/issues)
-- 💡 [Feature Requests](https://github.com/yourusername/ngx-pro-editor/issues/new)
-- 💬 [Discussions](https://github.com/yourusername/ngx-pro-editor/discussions)
+- 🐛 [Report Issues](https://github.com/ChauhanShubham8758/ngx-pro-editor/issues)
+- 💡 [Feature Requests](https://github.com/ChauhanShubham8758/ngx-pro-editor/issues/new)
+- 💬 [Discussions](https://github.com/ChauhanShubham8758/ngx-pro-editor/discussions)
 
 ---
 
@@ -410,7 +410,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you find this project useful, please consider giving it a star on GitHub!
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/ngx-pro-editor?style=social)](https://github.com/yourusername/ngx-pro-editor)
+[![GitHub stars](https://img.shields.io/github/stars/ChauhanShubham8758/ngx-pro-editor?style=social)](https://github.com/ChauhanShubham8758/ngx-pro-editor)
 
 ---
 
