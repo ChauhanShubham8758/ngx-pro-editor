@@ -399,7 +399,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 💬 Support
 
-- 📧 Email: your.email@example.com
+- 📧 Email: chauhanshubham19765@gmail.com
 - 🐛 [Report Issues](https://github.com/ChauhanShubham8758/ngx-pro-editor/issues)
 - 💡 [Feature Requests](https://github.com/ChauhanShubham8758/ngx-pro-editor/issues/new)
 - 💬 [Discussions](https://github.com/ChauhanShubham8758/ngx-pro-editor/discussions)
