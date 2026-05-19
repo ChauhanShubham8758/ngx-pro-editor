@@ -1,6 +1,6 @@
 {
   "name": "ngx-pro-editor",
-  "version": "1.2.10",
+  "version": "1.3.1",
   "description": "A powerful, fully custom Angular rich text editor with zero external editor dependencies. Supports rich text formatting, font controls, 80+ colors, background highlights, headings (H1–H6), blockquotes, code blocks, lists, alignment, and more. Modular and extensible for plugins, image upload, and collaborative editing.",
   "keywords": [
     "angular",
