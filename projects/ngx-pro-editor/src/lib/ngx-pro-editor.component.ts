@@ -75,6 +75,107 @@ import { EditorConfig, DEFAULT_EDITOR_CONFIG } from './models/editor.models';
     </div>
   `,
   styles: [`
+
+    /* ══════════════════════════════════════════════════════
+       DARK THEME — CSS Custom Properties
+    ══════════════════════════════════════════════════════ */
+    .editor-shell[data-theme="dark"] {
+      --radius-xl:  16px;
+      --radius-md:  10px;
+      --radius-sm:   6px;
+      --font-ui: 'Inter', system-ui, sans-serif;
+
+      --bg-editor:          #1a1a2e;
+      --bg-surface:         #16213e;
+      --bg-surface-3:       #1e2a45;
+      --bg-toolbar:         #1a1a2e;
+      --bg-editor-content:  #ffffff;
+
+      --border-default: rgba(255,255,255,0.10);
+      --border-subtle:  rgba(255,255,255,0.06);
+      --border-strong:  rgba(255,255,255,0.22);
+      --border-focus:   #6366f1;
+
+      --text-primary:   #f1f1f8;
+      --text-secondary: #9ca3af;
+      --text-muted:     #6b7280;
+
+      --color-primary:       #6366f1;
+      --color-primary-hover: #4f46e5;
+      --color-accent:        #a78bfa;
+      --color-success:       #22c55e;
+
+      --toolbar-btn-hover:  rgba(255,255,255,0.08);
+      --toolbar-btn-active: rgba(99,102,241,0.15);
+      --toolbar-separator:  rgba(255,255,255,0.08);
+      --popover-bg:         #1e2030;
+
+      --shadow-lg:   0 20px 60px rgba(0,0,0,0.50);
+      --shadow-md:   0 8px  24px rgba(0,0,0,0.30);
+      --shadow-glow: 0 0 0 3px rgba(99,102,241,0.25);
+
+      --transition-base: 0.2s  ease;
+      --transition-fast: 0.15s ease;
+    }
+
+    /* ══════════════════════════════════════════════════════
+       LIGHT THEME — CSS Custom Properties
+    ══════════════════════════════════════════════════════ */
+    .editor-shell[data-theme="light"] {
+      --radius-xl:  16px;
+      --radius-md:  10px;
+      --radius-sm:   6px;
+      --font-ui: 'Inter', system-ui, sans-serif;
+
+      --bg-editor:          #ffffff;
+      --bg-surface:         #f8f9fa;
+      --bg-surface-3:       #f1f5f9;
+      --bg-toolbar:         #f8f9fa;
+      --bg-editor-content:  #ffffff;
+
+      --border-default: #e5e7eb;
+      --border-subtle:  #f3f4f6;
+      --border-strong:  #d1d5db;
+      --border-focus:   #6366f1;
+
+      --text-primary:   #111827;
+      --text-secondary: #374151;
+      --text-muted:     #9ca3af;
+
+      --color-primary:       #6366f1;
+      --color-primary-hover: #4f46e5;
+      --color-accent:        #a78bfa;
+      --color-success:       #22c55e;
+
+      --toolbar-btn-hover:  rgba(0,0,0,0.05);
+      --toolbar-btn-active: rgba(99,102,241,0.10);
+      --toolbar-separator:  rgba(0,0,0,0.09);
+      --popover-bg:         #ffffff;
+
+      --shadow-lg:   0 20px 60px rgba(0,0,0,0.08);
+      --shadow-md:   0 8px  24px rgba(0,0,0,0.07);
+      --shadow-glow: 0 0 0 3px rgba(99,102,241,0.15);
+
+      --transition-base: 0.2s  ease;
+      --transition-fast: 0.15s ease;
+    }
+
+    /* ══════════════════════════════════════════════════════
+       Shared Animations
+    ══════════════════════════════════════════════════════ */
+    @keyframes slideDown {
+      from { opacity: 0; transform: translateY(-8px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes scaleIn {
+      from { opacity: 0; transform: scale(0.94) translateY(-4px); }
+      to   { opacity: 1; transform: scale(1) translateY(0); }
+    }
+    @keyframes pulse-glow {
+      0%, 100% { opacity: 1; }
+      50%      { opacity: 0.4; }
+    }
+
     .editor-shell {
       display: flex;
       flex-direction: column;
