@@ -9,7 +9,7 @@
 
 **A feature-rich WYSIWYG editor for Angular with auto-save, special characters, and advanced formatting**
 
-[Demo](https://your-demo-url.com) • [Documentation](https://your-docs-url.com) • [Report Bug](https://github.com/ChauhanShubham8758/ngx-pro-editor/issues)
+[Report Bug](https://github.com/ChauhanShubham8758/ngx-pro-editor/issues) • [GitHub](https://github.com/ChauhanShubham8758/ngx-pro-editor)
 
 </div>
 
@@ -318,20 +318,6 @@ Override CSS variables in your global styles:
 
 ---
 
-## 📸 Screenshots
-
-### Dark Theme
-![Dark Theme](https://your-image-url.com/dark-theme.png)
-
-### Light Theme
-![Light Theme](https://your-image-url.com/light-theme.png)
-
-### Special Characters
-![Special Characters](https://your-image-url.com/special-chars.png)
-
-### Advanced Formatting
-![Advanced Formatting](https://your-image-url.com/advanced-format.png)
-
 ---
 
 ## 🌐 Browser Support
@@ -343,13 +329,6 @@ Override CSS variables in your global styles:
 
 ---
 
-## 📚 Documentation
-
-- [Full Documentation](https://your-docs-url.com)
-- [API Reference](https://your-docs-url.com/api)
-- [Examples](https://your-docs-url.com/examples)
-- [Migration Guide](https://your-docs-url.com/migration)
-
 ---
 
 ## 🤝 Contributing
@@ -360,7 +339,7 @@ Contributions are welcome! Please read our [Contributing Guide](CONTRIBUTING.md)
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ngx-pro-editor.git
+git clone https://github.com/ChauhanShubham8758/ngx-pro-editor.git
 
 # Install dependencies
 npm install
