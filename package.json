@@ -4,7 +4,9 @@
   "scripts": {
     "build:lib": "ng build ngx-pro-editor",
     "build:demo": "ng build demo",
+    "build:demo:gh": "ng build demo --base-href /ngx-pro-editor/",
     "start": "ng serve demo",
+    "deploy:demo": "npm run build:demo:gh && npx angular-cli-ghpages --dir=dist/demo/browser",
     "pack": "cd dist/ngx-pro-editor && npm pack",
     "publish:lib": "npm run build:lib && cd dist/ngx-pro-editor && npm publish --access public",
     "version:patch": "cd projects/ngx-pro-editor && npm version patch",
