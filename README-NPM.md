@@ -9,7 +9,7 @@
 
 **A powerful, feature-rich WYSIWYG editor for Angular applications**
 
-[Demo](https://your-demo-url.com) • [Documentation](https://github.com/yourusername/ngx-pro-editor) • [Report Bug](https://github.com/yourusername/ngx-pro-editor/issues)
+[GitHub](https://github.com/ChauhanShubham8758/ngx-pro-editor) • [Report Bug](https://github.com/ChauhanShubham8758/ngx-pro-editor/issues)
 
 </div>
 
@@ -417,28 +417,28 @@ export class EditorComponent {
 
 ## 📝 Changelog
 
-See [CHANGELOG.md](https://github.com/yourusername/ngx-pro-editor/blob/main/CHANGELOG.md) for version history.
+See [CHANGELOG.md](https://github.com/ChauhanShubham8758/ngx-pro-editor/blob/main/CHANGELOG.md) for version history.
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please read our [Contributing Guide](https://github.com/yourusername/ngx-pro-editor/blob/main/CONTRIBUTING.md) for details.
+Contributions are welcome! Please read our [Contributing Guide](https://github.com/ChauhanShubham8758/ngx-pro-editor/blob/main/CONTRIBUTING.md) for details.
 
 ---
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/yourusername/ngx-pro-editor/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/ChauhanShubham8758/ngx-pro-editor/blob/main/LICENSE) file for details.
 
 ---
 
 ## 💬 Support
 
-- 📧 Email: support@example.com
-- 🐛 [Report Issues](https://github.com/yourusername/ngx-pro-editor/issues)
-- 💡 [Feature Requests](https://github.com/yourusername/ngx-pro-editor/issues/new)
-- 📖 [Documentation](https://github.com/yourusername/ngx-pro-editor)
+- 📧 Email: chauhanshubham19765@gmail.com
+- 🐛 [Report Issues](https://github.com/ChauhanShubham8758/ngx-pro-editor/issues)
+- 💡 [Feature Requests](https://github.com/ChauhanShubham8758/ngx-pro-editor/issues/new)
+- 📖 [Documentation](https://github.com/ChauhanShubham8758/ngx-pro-editor)
 
 ---
 
@@ -446,7 +446,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 If you find this project useful, please consider giving it a star on GitHub!
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/ngx-pro-editor?style=social)](https://github.com/yourusername/ngx-pro-editor)
+[![GitHub stars](https://img.shields.io/github/stars/ChauhanShubham8758/ngx-pro-editor?style=social)](https://github.com/ChauhanShubham8758/ngx-pro-editor)
 
 ---
 
@@ -462,6 +462,6 @@ If you find this project useful, please consider giving it a star on GitHub!
 
 **Made with ❤️ for the Angular community**
 
-[NPM](https://www.npmjs.com/package/ngx-pro-editor) • [GitHub](https://github.com/yourusername/ngx-pro-editor) • [Issues](https://github.com/yourusername/ngx-pro-editor/issues)
+[NPM](https://www.npmjs.com/package/ngx-pro-editor) • [GitHub](https://github.com/ChauhanShubham8758/ngx-pro-editor) • [Issues](https://github.com/ChauhanShubham8758/ngx-pro-editor/issues)
 
 </div>
