@@ -199,9 +199,9 @@ See `FEATURES.md` for complete feature list and detailed documentation.
 
 ## 🤝 Support
 
-- GitHub Issues: [your-repo-url]
-- NPM Package: [your-npm-package]
-- Documentation: [your-docs-url]
+- GitHub Issues: [ChauhanShubham8758/ngx-pro-editor](https://github.com/ChauhanShubham8758/ngx-pro-editor/issues)
+- NPM Package: [ngx-pro-editor](https://www.npmjs.com/package/ngx-pro-editor)
+- Email: chauhanshubham19765@gmail.com
 
 ---
 
