@@ -202,9 +202,9 @@ This is the initial release, no migration needed.
 ## Support
 
 For questions, issues, or feature requests:
-- 📧 Email: your.email@example.com
-- 🐛 [GitHub Issues](https://github.com/yourusername/ngx-pro-editor/issues)
-- 💬 [Discussions](https://github.com/yourusername/ngx-pro-editor/discussions)
+- 📧 Email: chauhanshubham19765@gmail.com
+- 🐛 [GitHub Issues](https://github.com/ChauhanShubham8758/ngx-pro-editor/issues)
+- 💬 [Discussions](https://github.com/ChauhanShubham8758/ngx-pro-editor/discussions)
 
 ---
 
@@ -212,9 +212,9 @@ For questions, issues, or feature requests:
 
 Thanks to all contributors who helped make this project possible!
 
-- [Your Name](https://github.com/yourusername) - Creator & Maintainer
+- [Shubham Chauhan](https://github.com/ChauhanShubham8758) - Creator & Maintainer
 
 ---
 
-[1.0.0]: https://github.com/yourusername/ngx-pro-editor/releases/tag/v1.0.0
-[Unreleased]: https://github.com/yourusername/ngx-pro-editor/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/ChauhanShubham8758/ngx-pro-editor/releases/tag/v1.0.0
+[Unreleased]: https://github.com/ChauhanShubham8758/ngx-pro-editor/compare/v1.0.0...HEAD
