@@ -78,16 +78,16 @@
     "ngx",
     "angular-editor"
   ],
-  "author": "Your Name <your.email@example.com>",
+  "author": "Shubham Chauhan <chauhanshubham19765@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/ngx-pro-editor.git"
+    "url": "https://github.com/ChauhanShubham8758/ngx-pro-editor.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/ngx-pro-editor/issues"
+    "url": "https://github.com/ChauhanShubham8758/ngx-pro-editor/issues"
   },
-  "homepage": "https://github.com/yourusername/ngx-pro-editor#readme",
+  "homepage": "https://github.com/ChauhanShubham8758/ngx-pro-editor#readme",
   "peerDependencies": {
     "@angular/common": "^17.0.0 || ^18.0.0",
     "@angular/core": "^17.0.0 || ^18.0.0"
